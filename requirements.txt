@@ -1,0 +1,7 @@
+python-telegram-bot
+requests
+pandas
+numpy
+matplotlib
+flask
+gunicorn
